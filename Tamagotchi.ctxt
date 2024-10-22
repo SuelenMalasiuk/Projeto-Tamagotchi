@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tamagotchi
+comment1.params=nome
+comment1.target=Tamagotchi(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getIdade()
+comment4.params=
+comment4.target=int\ getPeso()
+comment5.params=
+comment5.target=void\ dormir()
+comment6.params=opcao
+comment6.target=void\ comer(int)
+comment7.params=opcao
+comment7.target=void\ exercitar(int)
+comment8.params=scanner
+comment8.target=void\ lidarComSono(java.util.Scanner)
+numComments=9
